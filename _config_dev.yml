@@ -1,0 +1,43 @@
+# Site settings
+name: Hemant Palavali
+title: Hemant Palavali | Software Engineer
+description: 
+url: https://hemantreddy.github.io/hemantreddy
+baseurl: 'https://hemantreddy.github.io/hemantreddy'
+email: hemantreddy96@gmail.com
+cover: 
+logo: 
+resume: https://hemantreddy.github.io/hemantreddy/resume.pdf
+social:
+  - title: email
+    url: mailto:hemantreddy96@gmail.com
+  - title: twitter
+    url: https://twitter.com/hemantreddy22
+  - title: instagram
+    url: https://instagram.com/hemantreddyy
+  - title: github
+    url: https://github.com/hemantreddy
+  - title: linkedin
+    url: https://www.linkedin.com/in/hemantreddy
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

@@ -1,0 +1,22 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: TypeScript
+  - item: HTML
+  - item: CSS
+  - item: Java
+  - item: SQL
+
+frameworks:
+  - item: React 
+  - item: Node
+  - item: D3
+
+testingTools:
+  - item: Chai
+  - item: Mocha
+  - item: Sinon
+
+databases:
+  - item: MySQl
+  - item: MongoDB
+  - item: CouchDB
