@@ -2,12 +2,12 @@
 name: Hemant Palavali
 title: Hemant Palavali | Software Engineer
 description: 
-url: 'https://hemantreddy.github.io/hemantreddy'
-baseurl: 'https://hemantreddy.github.io/hemantreddy'
+url: 'https://hemantreddy.github.io'
+baseurl: 'https://hemantreddy.github.io'
 email: hemantreddy96@gmail.com
 cover: 
 logo: 
-resume: https://hemantreddy.github.io/hemantreddy/resume.pdf
+resume: https://hemantreddy.github.io/resume.pdf
 social:
   - title: email
     url: mailto:hemantreddy96@gmail.com
@@ -41,5 +41,3 @@ keep_files:
 plugins_dir:
   - jekyll-minifier
   - jekyll-sitemap
-
-theme: jekyll-theme-cayman
