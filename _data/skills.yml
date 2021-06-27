@@ -1,10 +1,12 @@
 languages:
   - item: JavaScript (ES6)
   - item: TypeScript
-  - item: HTML
+  - item: Python
+  - item: C++
   - item: CSS
-  - item: Java
+  - item: HTML
   - item: SQL
+  
 
 frameworks:
   - item: React 
@@ -15,6 +17,7 @@ testingTools:
   - item: Chai
   - item: Mocha
   - item: Sinon
+  - item: PyTest
 
 databases:
   - item: MySQl
